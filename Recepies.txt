@@ -5,7 +5,7 @@ Make pizza
 open App
 select pizza type 
 order
-pay
+pay1
 delivery address
 chicken add
 added chicken
